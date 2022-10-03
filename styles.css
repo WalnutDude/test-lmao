@@ -1,0 +1,13 @@
+body{
+
+    margin: 0;
+    text-align: center;
+    background-color: dimgrey;
+}
+label{    
+-webkit-text-fill-color: aliceblue;
+}
+button{
+    -webkit-text-fill-color: darkslategrey;
+}
+
